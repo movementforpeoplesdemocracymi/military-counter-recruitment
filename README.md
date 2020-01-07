@@ -4,4 +4,5 @@ A publicly available resource for providing students with all the information th
 ## Links
 
 [Movement for Peoples' Democracy](https://www.movement4peoplesdemocracy.org/)
+
 [Movement for Peoples' Democracy Michigan Club Facebook](https://www.facebook.com/Movement-for-Peoples-Democracy-Michigan-112282773586851/)
