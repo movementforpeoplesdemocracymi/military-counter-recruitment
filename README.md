@@ -6,3 +6,5 @@ A publicly available resource for providing students with all the information th
 [Movement for Peoples' Democracy](https://www.movement4peoplesdemocracy.org/)
 
 [Movement for Peoples' Democracy Michigan Club Facebook](https://www.facebook.com/Movement-for-Peoples-Democracy-Michigan-112282773586851/)
+
+[Counter Recruitment Wiki](https://github.com/movementforpeoplesdemocracymi/military-counter-recruitment/wiki)
